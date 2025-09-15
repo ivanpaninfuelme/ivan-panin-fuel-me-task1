@@ -1,0 +1,28 @@
+{
+  "name": "ivan-panin-fuel-me-task1",
+  "version": "1.0.0",
+  "description": "Task 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "ts-node src/process_args.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanpaninfuelme/ivan-panin-fuel-me-task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanpaninfuelme/ivan-panin-fuel-me-task1/issues"
+  },
+  "homepage": "https://github.com/ivanpaninfuelme/ivan-panin-fuel-me-task1#readme",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
